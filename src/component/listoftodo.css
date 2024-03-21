@@ -1,0 +1,20 @@
+input{
+    background-color: darkgrey;
+    height: 50px;
+    font-size: larger;
+
+}
+
+#form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    text-align: center;
+}
+
+button{
+    height: 50px;
+}
